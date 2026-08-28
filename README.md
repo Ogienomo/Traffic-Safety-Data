@@ -1,2 +1,3 @@
 # Traffic-Safety-Data
 Freight Vehicle Involvement and Crash Severity in São Paulo State
+INFOSIGA_microdata_consolidated_2015-2025.zip sha256:c0629501540d8e705835315360799c342647f6469955c010a1ee309cc3f53a01
