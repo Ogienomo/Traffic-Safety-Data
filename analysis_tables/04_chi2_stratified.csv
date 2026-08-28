@@ -1,0 +1,3 @@
+stratum,n_crashes,fatal_rate_no_truck_pct,fatal_rate_truck_pct,OR,CI95_low,CI95_high,p_value
+Highways,167115,7.88,14.75,2.02,1.95,2.1,2.39e-284
+Urban streets,701328,2.54,6.89,2.84,2.69,2.99,0.00e+00

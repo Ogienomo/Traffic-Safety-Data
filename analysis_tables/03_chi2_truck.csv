@@ -1,0 +1,2 @@
+test,chi2,dof,p_value,OR_fatal_given_truck,CI95_low,CI95_high,fatal_rate_no_truck_pct,fatal_rate_truck_pct
+Fatal crash x truck involvement (2019-2025),6662.0,1,0.00e+00,3.27,3.18,3.37,3.69,11.14
